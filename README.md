@@ -1,1 +1,1 @@
-# Customer-Classification-in-R
+# Customer-Segmentation-in-R
